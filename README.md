@@ -1,16 +1,12 @@
-## Hi there 👋
+- 🌱 Atualmente estudando Python e Django
+- 📫 Contatos:E-mail: ✉️victorbasilio5@gmail.com || 💼LinkedIn: https://www.linkedin.com/in/victorbasilioo/
 
-<!--
-**VictorbSilva/VictorbSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/VictorbSilva/VictorbSilva">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=VictorbSilva&showicons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorbSilva&layout=compact"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+</div>
