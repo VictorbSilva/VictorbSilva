@@ -1,5 +1,5 @@
 - 🌱 Atualmente estudando Python e Django
-- 📫 Contatos:E-mail: ✉️victorbasilio5@gmail.com || 💼LinkedIn: https://www.linkedin.com/in/victorbasilioo/
+- 📫 Contatos: ✉️E-mail: victorbasilio5@gmail.com || 💼LinkedIn: https://www.linkedin.com/in/victorbasilioo/
 
 <div>
   <a href="https://github.com/VictorbSilva/VictorbSilva">
