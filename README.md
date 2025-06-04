@@ -1,4 +1,4 @@
-- 🌱 Atualmente estudando Python e Django
+- 🌱 Atualmente estudando React, Kotlin, Django e Flask
 - 📫 Contatos: ✉️E-mail: victorbasilio5@gmail.com || 💼LinkedIn: https://www.linkedin.com/in/victorbasilioo/
 <div>
   <a href="https://github.com/VictorbSilva/VictorbSilva">
