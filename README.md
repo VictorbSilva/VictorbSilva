@@ -2,10 +2,10 @@
 - 📫 Contatos: ✉️E-mail: victorbasilio5@gmail.com || 💼LinkedIn: https://www.linkedin.com/in/victorbasilioo/
 <div>
   <a href="https://github.com/VictorbSilva/VictorbSilva">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=VictorbSilva&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180" src="./profile/stats.svg"/>
   </a><br>
   <a href="https://github.com/VictorbSilva/VictorbSilva">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorbSilva&layout=compact&theme=aura_dark"/>
+    <img height="180" src="./profile/top-langs.svg"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
